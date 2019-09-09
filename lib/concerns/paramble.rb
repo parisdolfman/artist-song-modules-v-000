@@ -1,5 +1,5 @@
-module paramble
+module paramable
 
 
 
-end 
+end
